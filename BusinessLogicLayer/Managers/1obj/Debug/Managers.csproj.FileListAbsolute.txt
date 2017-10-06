@@ -1,0 +1,2 @@
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Managers\obj\Debug\Managers.csprojResolveAssemblyReference.cache
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Managers\obj\Debug\Managers.csproj.CoreCompileInputs.cache

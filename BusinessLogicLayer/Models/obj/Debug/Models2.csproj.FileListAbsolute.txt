@@ -1,0 +1,6 @@
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Models\bin\Debug\Library.BusinessLogicLayer.Models.dll
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Models\bin\Debug\Library.BusinessLogicLayer.Models.pdb
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Models\obj\Debug\Models2.csprojResolveAssemblyReference.cache
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Models\obj\Debug\Models2.csproj.CoreCompileInputs.cache
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Models\obj\Debug\Library.BusinessLogicLayer.Models.dll
+C:\Users\Morsus\Documents\GIT\Library\Library\Library\BusinessLogicLayer\Models\obj\Debug\Library.BusinessLogicLayer.Models.pdb
